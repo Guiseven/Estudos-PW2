@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(18, 245, 245);
+}
+
+
+.titulo{
+  background-color:rgb(53, 21, 170);
+  width:50%;
+  color: aliceblue;
+
+
+
+}
+
+#aluno{
+  background-color: teal;
+  width: 30%;
+  color:gold;
+  font-size:24px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.imgAluno{
+  width: 150px;
+  height: 150px;
+
+
+
+}
